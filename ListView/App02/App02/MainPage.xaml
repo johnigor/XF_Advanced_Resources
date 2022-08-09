@@ -3,11 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:App02"
              x:Class="App02.MainPage">
-
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:SeletorTemplate x:Key="SeletorPessoa"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <StackLayout>
 
         <!-- GroupDisplayBinding="{Binding Titulo}" GroupShortNameBinding="{Binding Abreviacao}" -->
-        <ListView x:Name="ListaFuncionarios" IsGroupingEnabled="True">
+        <ListView x:Name="ListaFuncionarios" IsGroupingEnabled="True" ItemTemplate="{StaticResource SeletorPessoa}">
             <ListView.Header>
                 <Label Text="Header!"
                        VerticalOptions="Center"
@@ -30,11 +34,6 @@
                     </ViewCell>
                 </DataTemplate>
             </ListView.GroupHeaderTemplate>
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <TextCell Text="{Binding Nome}"/>
-                </DataTemplate>
-            </ListView.ItemTemplate>
         </ListView>
 
     </StackLayout>

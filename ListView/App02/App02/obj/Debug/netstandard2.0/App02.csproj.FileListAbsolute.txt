@@ -13,3 +13,5 @@ C:\dev\XF_Advanced_Features\ListView\App02\App02\obj\Debug\netstandard2.0\App02.
 C:\dev\XF_Advanced_Features\ListView\App02\App02\obj\Debug\netstandard2.0\refint\App02.dll
 C:\dev\XF_Advanced_Features\ListView\App02\App02\obj\Debug\netstandard2.0\App02.pdb
 C:\dev\XF_Advanced_Features\ListView\App02\App02\obj\Debug\netstandard2.0\ref\App02.dll
+C:\dev\XF_Advanced_Features\ListView\App02\App02\obj\Debug\netstandard2.0\Templates\PessoaFundamentalViewCell.xaml.g.cs
+C:\dev\XF_Advanced_Features\ListView\App02\App02\obj\Debug\netstandard2.0\Templates\PessoaNaoFundamentalViewCell.xaml.g.cs
