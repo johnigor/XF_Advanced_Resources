@@ -16,16 +16,16 @@ namespace App02
         {
             return new List<Grupo>
             {
-                new Grupo ("Presidente", "CEO")
+                new Grupo ("Presidente", "CEO", "Presidente da empresa")
                 {
                     new Pessoa { Nome = "José" },
                 },
-                new Grupo ("Diretores", "Dir.")
+                new Grupo ("Diretores", "Dir.", "Fazem parte do conselho e auxiliam nas tomadas de decisões")
                 {
                     new Pessoa { Nome = "João" },
                     new Pessoa { Nome = "Maria" },
                 },
-                new Grupo ("Gerentes", "Ger.")
+                new Grupo ("Gerentes", "Ger.", "Gerenciam o desempenho e funções dos funcionários")
                 {
                     new Pessoa { Nome = "Felipe" },
                     new Pessoa { Nome = "Judas" },
@@ -37,11 +37,13 @@ namespace App02
         {
             public string Titulo { get; set; }
             public string Abreviacao { get; set; }
+            public string Descricao { get; set; }
 
-            public Grupo(string titulo, string abreviacao)
+            public Grupo(string titulo, string abreviacao, string descricao)
             {
                 Titulo = titulo;
                 Abreviacao = abreviacao;
+                Descricao = descricao;
             }
         }
 
