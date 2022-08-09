@@ -29,6 +29,18 @@ namespace App02
                 {
                     new Pessoa { Nome = "Felipe" },
                     new Pessoa { Nome = "Judas" },
+                },
+                new Grupo ("Funcionários", "Func.", "Realizam atividades específicas com base em sua profissão")
+                {
+                    new Pessoa { Nome = "Lucas" },
+                    new Pessoa { Nome = "Danilo" },
+                    new Pessoa { Nome = "Jéssica" },
+                    new Pessoa { Nome = "Pedro" },
+                    new Pessoa { Nome = "Fernanda" },
+                    new Pessoa { Nome = "Ellen" },
+                    new Pessoa { Nome = "Luan" },
+                    new Pessoa { Nome = "Carlos" },
+                    new Pessoa { Nome = "Amanda" },
                 }
             };
         }

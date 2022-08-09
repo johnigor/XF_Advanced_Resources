@@ -6,12 +6,20 @@
 
     <StackLayout>
 
-        <Label Text="Welcome to Xamarin.Forms!"
-               VerticalOptions="Center"
-               HorizontalOptions="Center"/>
-
         <!-- GroupDisplayBinding="{Binding Titulo}" GroupShortNameBinding="{Binding Abreviacao}" -->
         <ListView x:Name="ListaFuncionarios" IsGroupingEnabled="True">
+            <ListView.Header>
+                <Label Text="Header!"
+                       VerticalOptions="Center"
+                       HorizontalOptions="Center"
+                       />
+            </ListView.Header>
+            <ListView.Footer>
+                <Label Text="Footer!"
+                       VerticalOptions="Center"
+                       HorizontalOptions="Center"
+                       />
+            </ListView.Footer>
             <ListView.GroupHeaderTemplate>
                 <DataTemplate>
                     <ViewCell>
@@ -28,7 +36,7 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-        
+
     </StackLayout>
 
 </ContentPage>
