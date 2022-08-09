@@ -7,7 +7,7 @@ namespace App01.Lib
     {
         protected override void Invoke(Entry sender)
         {
-            if (sender.Text.IndexOf("@") >= 0)
+            if (sender.Text.Contains("@"))
             {
                 sender.TextColor = Color.Green;
             }
