@@ -10,7 +10,7 @@
                HorizontalTextAlignment="Center" 
                VerticalOptions="Center"/>
 
-        <Entry Placeholder="Digite o seu nome">
+        <Entry x:Name="TxtNome" Text="" Placeholder="Digite o seu nome">
             <Entry.Behaviors>
                 <behavior:MaiusculoBehavior/>
             </Entry.Behaviors>
@@ -22,11 +22,20 @@
                 </Trigger>
                 <Trigger TargetType="Entry" Property="IsFocused" Value="false">
                     <Setter Property="BackgroundColor" Value="MediumPurple"/>
-                    <Setter Property="PlaceholderColor" Value="White"/>
                     <Setter Property="TextColor" Value="White"/>
                 </Trigger>
             </Entry.Triggers>
         </Entry>
+
+        <Button Text="Enviar" TextColor="Black" BackgroundColor="Azure">
+            <Button.Triggers>
+                <DataTrigger TargetType="Button" Binding="{Binding Source={x:Reference TxtNome}, Path=Text.Length}" Value="0">
+                    <Setter Property="TextColor" Value="White"/>
+                    <Setter Property="BackgroundColor" Value="Gray"/>
+                    <Setter Property="IsEnabled" Value="False"/>
+                </DataTrigger>
+            </Button.Triggers>
+        </Button>
 
     </StackLayout>
 
