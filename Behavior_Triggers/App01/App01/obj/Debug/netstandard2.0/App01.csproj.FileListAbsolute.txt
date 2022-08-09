@@ -1,0 +1,15 @@
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\bin\Debug\netstandard2.0\App01.deps.json
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\bin\Debug\netstandard2.0\App01.dll
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\bin\Debug\netstandard2.0\App01.pdb
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\App01.csproj.AssemblyReference.cache
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\App01.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\App01.AssemblyInfoInputs.cache
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\App01.AssemblyInfo.cs
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\App01.csproj.CoreCompileInputs.cache
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\App01.dll
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\refint\App01.dll
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\App01.pdb
+C:\dev\XF_Advanced_Features\Behavior_Triggers\App01\App01\obj\Debug\netstandard2.0\ref\App01.dll
