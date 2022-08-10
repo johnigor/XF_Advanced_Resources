@@ -1,0 +1,15 @@
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\App04.csproj.AssemblyReference.cache
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\App04.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\App04.AssemblyInfoInputs.cache
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\App04.AssemblyInfo.cs
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\App04.csproj.CoreCompileInputs.cache
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\bin\Debug\netstandard2.0\App04.deps.json
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\bin\Debug\netstandard2.0\App04.dll
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\bin\Debug\netstandard2.0\App04.pdb
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\App04.dll
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\refint\App04.dll
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\App04.pdb
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04\obj\Debug\netstandard2.0\ref\App04.dll

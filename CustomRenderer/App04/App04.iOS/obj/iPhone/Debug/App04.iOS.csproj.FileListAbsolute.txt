@@ -1,0 +1,13 @@
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\optimized\
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\App04.iOS.csproj.AssemblyReference.cache
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.iOS\obj\iPhone\Debug\App04.iOS.csproj.CoreCompileInputs.cache

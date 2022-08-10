@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace App04
@@ -13,6 +10,13 @@ namespace App04
         public MainPage()
         {
             InitializeComponent();
+
+            Button myButton = new Button();
+
+            myButton.Text = "Eu sou diferente!";
+            myButton.TextColor = Color.DarkViolet;
+
+            Container.Children.Add(myButton);
         }
     }
 }
