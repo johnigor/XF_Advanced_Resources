@@ -20,6 +20,7 @@ namespace App04.iOS
             {
                 Control.Layer.CornerRadius = 10;
                 Control.ClipsToBounds = true;
+                Control.BackgroundColor = UIColor.Magenta;
             }
         }
     }
