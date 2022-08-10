@@ -18,6 +18,12 @@ namespace App05.Controls
             get { return (Color)GetValue(TituloCorProperty); }
             set { SetValue(TituloCorProperty, value); }
         }
+        
+        public string Imagem
+        {
+            get { return (string)GetValue(ImagemProperty); }
+            set { SetValue(ImagemProperty, value); }
+        }
 
         //Title
         public static readonly BindableProperty TituloProperty = BindableProperty.Create(
@@ -52,6 +58,23 @@ namespace App05.Controls
             var myControl = (MyControl)bindable;
 
             myControl.titulo.TextColor = (Color)newValue;
+        }
+
+        //Image
+        public static readonly BindableProperty ImagemProperty = BindableProperty.Create(
+            propertyName: "Imagem",
+            returnType: typeof(string),
+            declaringType: typeof(MyControl),
+            defaultValue: null,
+            defaultBindingMode: BindingMode.TwoWay,
+            propertyChanged: ImageSourcePropertyChanged
+            );
+
+        private static void ImageSourcePropertyChanged(BindableObject bindable, Object oldValue, Object newValue)
+        {
+            var myControl = (MyControl)bindable;
+
+            myControl.imagem.Source = ImageSource.FromFile((string)newValue);
         }
 
         public MyControl()

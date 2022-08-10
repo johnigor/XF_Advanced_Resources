@@ -4,7 +4,7 @@
              x:Class="App05.Controls.MyControl">
   <ContentView.Content>
       <StackLayout>
-            <Image x:Name="imagem" Source="image1.jpg" HorizontalOptions="Center" WidthRequest="100" HeightRequest="100"/>
+            <Image x:Name="imagem" HorizontalOptions="Center" WidthRequest="100" HeightRequest="100"/>
             <Label x:Name="titulo" Text="Meu texto" HorizontalOptions="Center"/>
       </StackLayout>
   </ContentView.Content>
