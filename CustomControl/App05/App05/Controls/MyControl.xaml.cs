@@ -7,6 +7,8 @@ namespace App05.Controls
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MyControl : ContentView
     {
+        public event EventHandler Tapped;
+
         public string Titulo
         {
             get { return (string)GetValue(TituloProperty); }
@@ -80,6 +82,14 @@ namespace App05.Controls
         public MyControl()
         {
             InitializeComponent();
+        }
+
+        private void TapGestureRecognizer_Tapped(object sender, EventArgs e)
+        {
+            if (Tapped != null)
+            {
+                Tapped(sender, e);
+            }
         }
     }
 }

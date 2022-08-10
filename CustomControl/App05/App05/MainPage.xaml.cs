@@ -14,5 +14,9 @@ namespace App05
         {
             InitializeComponent();
         }
+        private void MyControl_Tapped(object sender, EventArgs e)
+        {
+            DisplayAlert("Oi, eu sou um evento", "Fui executado!", "OK");
+        }
     }
 }

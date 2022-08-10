@@ -9,8 +9,8 @@
                HorizontalTextAlignment="Center"/>
 
         <control:MyControl Titulo="Titulo 1" TituloCor="Red" Imagem="image1.jpg"/>
-        <control:MyControl Titulo="Titulo 2" TituloCor="Blue" Imagem="image2.jpg"/>
-        <control:MyControl Titulo="Titulo 3" TituloCor="Green" Imagem="image3.jpg"/>
+        <control:MyControl Titulo="Titulo 2" TituloCor="Blue" Imagem="image2.jpg" Tapped="MyControl_Tapped" />
+        <control:MyControl Titulo="Titulo 3" TituloCor="Green" Imagem="image3.jpg" />
         <control:MyControl TituloCor="Yellow"/>
 
     </StackLayout>
