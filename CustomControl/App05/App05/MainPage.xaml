@@ -8,9 +8,9 @@
         <Label Text="Welcome to Xamarin.Forms!" 
                HorizontalTextAlignment="Center"/>
 
-        <control:MyControl />
-        <control:MyControl />
-        <control:MyControl />
+        <control:MyControl Titulo="Titulo 1" TituloCor="Red"/>
+        <control:MyControl Titulo="Titulo 2" TituloCor="Blue"/>
+        <control:MyControl TituloCor="Green"/>
 
     </StackLayout>
 
