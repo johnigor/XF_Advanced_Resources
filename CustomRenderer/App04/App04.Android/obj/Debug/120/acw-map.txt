@@ -1,6 +1,9 @@
 App04.Droid.MainActivity, App04.Android;crc647db9551b1522662a.MainActivity
 App04.Droid.MainActivity;crc647db9551b1522662a.MainActivity
 app04.droid.MainActivity;crc647db9551b1522662a.MainActivity
+App04.Droid.MyButtonRenderer, App04.Android;crc647db9551b1522662a.MyButtonRenderer
+App04.Droid.MyButtonRenderer;crc647db9551b1522662a.MyButtonRenderer
+app04.droid.MyButtonRenderer;crc647db9551b1522662a.MyButtonRenderer
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner

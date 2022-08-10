@@ -631,3 +631,5 @@ C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.Android\obj\Debug\120\sta
 C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.Android\obj\Debug\120\res\drawable\button_round.xml
+C:\dev\XF_Advanced_Features\CustomRenderer\App04\App04.Android\obj\Debug\120\android\src\crc647db9551b1522662a\MyButtonRenderer.java
