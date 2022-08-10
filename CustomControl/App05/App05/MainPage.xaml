@@ -6,10 +6,12 @@
 
     <StackLayout>
         <Label Text="Welcome to Xamarin.Forms!" 
-               HorizontalTextAlignment="Center" 
-               TextColor="White" FontSize="36"/>
+               HorizontalTextAlignment="Center"/>
 
         <control:MyControl />
+        <control:MyControl />
+        <control:MyControl />
+
     </StackLayout>
 
 </ContentPage>

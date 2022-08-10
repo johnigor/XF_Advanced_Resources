@@ -1,0 +1,16 @@
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\bin\Debug\netstandard2.0\App05.deps.json
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\bin\Debug\netstandard2.0\App05.dll
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\bin\Debug\netstandard2.0\App05.pdb
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\App05.csproj.AssemblyReference.cache
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\App05.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\Controls\MyControl.xaml.g.cs
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\App05.AssemblyInfoInputs.cache
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\App05.AssemblyInfo.cs
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\App05.csproj.CoreCompileInputs.cache
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\App05.dll
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\refint\App05.dll
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\App05.pdb
+C:\dev\XF_Advanced_Features\CustomControl\App05\App05\obj\Debug\netstandard2.0\ref\App05.dll
