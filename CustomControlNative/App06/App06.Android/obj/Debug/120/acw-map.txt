@@ -1,6 +1,9 @@
 App06.Droid.MainActivity, App06.Android;crc64564c2d3d975f38a0.MainActivity
 App06.Droid.MainActivity;crc64564c2d3d975f38a0.MainActivity
 app06.droid.MainActivity;crc64564c2d3d975f38a0.MainActivity
+App06.Droid.Controls.CustomBoxViewRenderer, App06.Android;crc64f43a8f481d7c3499.CustomBoxViewRenderer
+App06.Droid.Controls.CustomBoxViewRenderer;crc64f43a8f481d7c3499.CustomBoxViewRenderer
+app06.droid.controls.CustomBoxViewRenderer;crc64f43a8f481d7c3499.CustomBoxViewRenderer
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner

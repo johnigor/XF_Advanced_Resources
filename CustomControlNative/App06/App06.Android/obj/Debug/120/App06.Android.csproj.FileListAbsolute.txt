@@ -1,3 +1,4 @@
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\assets\Mono.Android.dll
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\bin\Debug\App06.Android.dll
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\bin\Debug\App06.Android.pdb
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\bin\Debug\com.companyname.app06.apk
@@ -72,7 +73,6 @@ C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\12
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\assets\FormsViewGroup.pdb
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\assets\Java.Interop.dll
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\assets\Java.Interop.pdb
-C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\assets\Mono.Android.dll
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\assets\Mono.Android.pdb
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\assets\Mono.Security.dll
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\assets\Mono.Security.pdb
@@ -514,6 +514,7 @@ C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\12
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\FrameRenderer.java
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\ImageRenderer.java
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\src\crc64f43a8f481d7c3499\CustomBoxViewRenderer.java
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
 C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
