@@ -8,7 +8,7 @@
         <Label Text="Welcome to Xamarin.Forms!" 
                HorizontalOptions="Center" 
                VerticalOptions="Center" />
-        <control:CustomBoxView Espessura="10"/>
+        <control:CustomBoxView Espessura="10" />
     </StackLayout>
 
 </ContentPage>

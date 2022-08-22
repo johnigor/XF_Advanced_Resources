@@ -5,7 +5,7 @@ using Xamarin.Forms;
 
 namespace App06.Controls
 {
-    internal class CustomBoxView : BoxView
+    public class CustomBoxView : BoxView
     {
         public static readonly BindableProperty espessuraProperty = BindableProperty.Create<CustomBoxView, double>(
             p => p.Espessura, default(double)
