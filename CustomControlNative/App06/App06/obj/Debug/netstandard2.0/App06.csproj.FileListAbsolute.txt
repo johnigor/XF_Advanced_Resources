@@ -1,0 +1,15 @@
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\bin\Debug\netstandard2.0\App06.deps.json
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\bin\Debug\netstandard2.0\App06.dll
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\bin\Debug\netstandard2.0\App06.pdb
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\App06.csproj.AssemblyReference.cache
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\App06.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\App06.AssemblyInfoInputs.cache
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\App06.AssemblyInfo.cs
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\App06.csproj.CoreCompileInputs.cache
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\App06.dll
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\refint\App06.dll
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\App06.pdb
+C:\dev\XF_Advanced_Features\CustomControlNative\App06\App06\obj\Debug\netstandard2.0\ref\App06.dll
