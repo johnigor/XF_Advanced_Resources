@@ -14,7 +14,7 @@ namespace App06.Controls
         public double Espessura 
         {
             get { return (double)GetValue(EspessuraProperty); }
-            set { SetValue(EspessuraProperty, value); }
+            set { SetValue(EspessuraProperty, value); } 
         }
     }
 }
