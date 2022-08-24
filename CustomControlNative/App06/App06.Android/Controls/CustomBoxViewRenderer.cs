@@ -20,6 +20,7 @@ namespace App06.Droid.Controls
 {
     public class CustomBoxViewRenderer : BoxRenderer
     {
+        [Obsolete]
         public CustomBoxViewRenderer()
         {
             SetWillNotDraw(false);
